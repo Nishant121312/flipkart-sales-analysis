@@ -1,0 +1,26 @@
+Order ID,Product Name,Category,Price,Quantity,Sales,Order Date,Customer ID,City,Payment Method
+ORD001,Running Shoes,Footwear,3000,2,6000,2024-10-21,CUST2603,North Kimberly,Cash on Delivery
+ORD002,T-Shirt,Fashion,800,3,2400,2024-05-06,CUST7274,New Robert,UPI
+ORD003,Jeans,Fashion,1500,3,4500,2024-07-29,CUST7393,Port William,Credit Card
+ORD004,T-Shirt,Fashion,800,2,1600,2024-05-29,CUST1809,Laurenfurt,Debit Card
+ORD005,Running Shoes,Footwear,3000,2,6000,2025-01-18,CUST5676,New Jared,UPI
+ORD006,Running Shoes,Footwear,3000,4,12000,2024-11-14,CUST9707,New Joy,Debit Card
+ORD007,Jeans,Fashion,1500,5,7500,2024-09-22,CUST6699,Fernandomouth,Debit Card
+ORD008,Refrigerator,Appliances,40000,5,200000,2024-06-05,CUST2399,East Martha,Credit Card
+ORD009,Running Shoes,Footwear,3000,4,12000,2024-05-02,CUST6275,Harveyfurt,Credit Card
+ORD010,Headphones,Accessories,2000,4,8000,2025-01-27,CUST1165,Torresport,Cash on Delivery
+ORD011,Backpack,Accessories,1200,4,4800,2024-11-26,CUST2368,South Karentown,Credit Card
+ORD012,Running Shoes,Footwear,3000,4,12000,2024-02-16,CUST8389,Lake Johnville,Credit Card
+ORD013,Washing Machine,Appliances,25000,2,50000,2024-07-12,CUST8298,North Brianbury,Debit Card
+ORD014,Smartphone,Electronics,15000,5,75000,2025-02-01,CUST5917,New Ashleyport,Credit Card
+ORD015,Backpack,Accessories,1200,4,4800,2024-08-23,CUST2929,Hurleytown,Credit Card
+ORD016,Smartwatch,Electronics,7000,1,7000,2024-12-10,CUST1366,Bellview,Net Banking
+ORD017,Backpack,Accessories,1200,4,4800,2025-01-12,CUST8183,Johnfort,Debit Card
+ORD018,Headphones,Accessories,2000,1,2000,2024-03-19,CUST3021,Port Troy,UPI
+ORD019,Washing Machine,Appliances,25000,3,75000,2024-05-20,CUST6012,Jamesfurt,Net Banking
+ORD020,Smartwatch,Electronics,7000,3,21000,2024-10-20,CUST1642,Port Cheryl,Net Banking
+ORD021,Washing Machine,Appliances,25000,5,125000,2024-04-24,CUST5229,New Jessica,Credit Card
+ORD022,Refrigerator,Appliances,40000,5,200000,2024-03-03,CUST8826,Wilkersonport,Debit Card
+ORD023,Smartwatch,Electronics,7000,5,35000,2024-07-06,CUST2398,Randyfort,UPI
+ORD024,Running Shoes,Footwear,3000,2,6000,2024-04-12,CUST8379,Lake Andrew,UPI
+ORD025,Smartphone,Electronics,15000,5,75000,2025-02-03,CUST2253,Meghanshire,Cash on Delivery
